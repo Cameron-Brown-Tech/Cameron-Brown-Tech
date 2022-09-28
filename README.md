@@ -1,5 +1,5 @@
 Hi, I’m @Cameron-Brown-Tech
-I’m interested in Python, R and all things computing, and data science related. 
+I’m interested in Python, AI and all things computing, and data science related. 
 
 I have recently completed a masters degree (MSc) in Financial Technology from The University of Strathclyde, and am currenlty a Data Science Intern at a Mutual Insurance company working on unsupervised ML Anomaly Detection tehniques. In partcilular Auto-Encoders.
 
